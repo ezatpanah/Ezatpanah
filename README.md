@@ -1,4 +1,9 @@
 ### Hi there 👋
+- 🔭 I’m currently working as Android Developer in ERPLY
+- 🌱 I’m currently learning ...
+- 💬 Ask me about Android Stuff or engineering in general
+- 📫 How to reach me: www.Ezatpanah.com (ComingSoon) or Ezatpanah@gmail.com 
+
 
 <!--
 **Ezatpanah/Ezatpanah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
