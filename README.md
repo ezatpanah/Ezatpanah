@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working as Android Developer at ERPLY Retail Platform
+- 🔭 I’m currently working as an Android Developer at ERPLY Retail Platform
 - 🌱 I’m currently learning ...
 - ⚡ Really Love new challenges
 - 💬 Ask me about Android Stuff or engineering in general
