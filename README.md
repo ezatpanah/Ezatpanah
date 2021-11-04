@@ -17,7 +17,8 @@
 
 
 ## 🔧 My Favorite Technologies
-
+![](https://img.shields.io/badge/OS-windows-informational?style=flat&logo=windows&logoColor=white&color=informational)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=informational)
 ![](https://img.shields.io/badge/OS-Android-informational?style=flat&logo=android&logoColor=white&color=informational)
 ![](https://img.shields.io/badge/lang-kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=informational)
 ![](https://img.shields.io/badge/lang-java-informational?style=flat&logo=java&logoColor=white&color=informational)
