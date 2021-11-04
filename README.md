@@ -6,6 +6,16 @@
 - 💬 Ask me about Android Stuff or engineering in general
 - 📫 How to reach me: www.Ezatpanah.com (ComingSoon) or Ezatpanah@gmail.com 
 
+<a href="https://www.linkedin.com/in/reyhanehezatpanah">
+  <img align="left" alt="Reyhaneh Ezatpanah Linkedin" src="https://img.shields.io/badge/linkedin-informational?style=flat&logo=linkedin&logoColor=white&color=informational" />
+</a>
+<a href="https://#">
+  <img align="left" alt="Reyhaneh Ezatpanah Instagram" src="https://img.shields.io/badge/instagram-informational?style=flat&logo=instagram&logoColor=white&color=informational" />
+</a>
+<br>
+
+
+
 ## 🔧 My Favorite Technologies
 
 ![](https://img.shields.io/badge/OS-Android-informational?style=flat&logo=android&logoColor=white&color=informational)
