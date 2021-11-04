@@ -20,3 +20,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center" >
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ezatpanah&bg_color=20,5f2c82,49a09d&title_color=fff&text_color=fff&count_private=true"><br>
+    <img src="https://github-readme-stats.vercel.app/api?username=Ezatpanah&show_icons=true&bg_color=25,1A2980,26D0CE&title_color=fff&text_color=fff&count_private=true">
+</div>
+
