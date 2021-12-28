@@ -31,7 +31,8 @@
 
 <div align="center" >
       <img src="https://github-readme-stats.vercel.app/api?username=Ezatpanah&show_icons=true&bg_color=25,1A2980,26D0CE&title_color=fff&text_color=fff&count_private=true">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ezatpanah&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ezatpanah&layout=compact&show_icons=true&bg_color=25,1A2980,26D0CE&title_color=fff&text_color=fff&count_private=true">
+
 
 </div>
 
