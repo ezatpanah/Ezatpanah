@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning ...
 - ⚡ Really Love new challenges
 - 💬 Ask me about Android Stuff or engineering in general
-- 📫 How to reach me: www.Ezatpanah.com (ComingSoon) or Ezatpanah@gmail.com 
+- 📫 How to reach me: www.Ezatpanah.com or Ezatpanah@gmail.com 
 
 <a href="https://www.linkedin.com/in/reyhanehezatpanah">
   <img align="left" alt="Reyhaneh Ezatpanah Linkedin" src="https://img.shields.io/badge/linkedin-informational?style=flat&logo=linkedin&logoColor=white&color=informational" />
