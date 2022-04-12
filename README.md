@@ -38,6 +38,6 @@
 </div>
 
  <p align="center">  
-     <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=Iltwats.visitor-badge"> 
+     <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=Ezatpanah.visitor-badge"> 
   </p>
 
