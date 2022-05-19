@@ -6,8 +6,13 @@
 - 🔭 I’m currently working as an Android Developer at ERPLY Retail Platform
 - 🌱 I’m currently learning ...
 - ⚡ Really Love new challenges
-- 💬 Ask me about Android Stuff or engineering in general
-- 📫 How to reach me: www.Ezatpanah.com or Ezatpanah@gmail.com 
+- 💬 Ask me about Android Stuff and Android development ,I may be able to answer
+- - 📫 How to reach me:
+  - Website: [Ezatpanah.com](https://ezatpanah.com)
+  - Email: [Ezatpanah@gmail.com](mailto:Ezatpanah@gmail.com)
+  - YouTube: [AndroidGeek_co ![YouTube channel subscribers](https://img.shields.io/youtube/channel/subscribers/UCFuVENwuWsRdyo6BLEHynzw?style=social)](https://www.youtube.com/channel/UCVyVqVRYcykw6OFu61RkPsw)
+  - Linkedin: [Reyhaneh Ezatpanah](https://www.linkedin.com/in/reyhanehezatpanah/)
+  - 
 
 <a href="https://www.linkedin.com/in/reyhanehezatpanah">
   <img align="left" alt="Reyhaneh Ezatpanah Linkedin" src="https://img.shields.io/badge/linkedin-informational?style=flat&logo=linkedin&logoColor=white&color=informational" />
