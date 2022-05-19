@@ -11,9 +11,7 @@
   - Website: [Ezatpanah.com](https://ezatpanah.com)
   - Email: [Ezatpanah@gmail.com](mailto:Ezatpanah@gmail.com)
   - YouTube: [AndroidGeek_co ![YouTube channel subscribers](https://img.shields.io/youtube/channel/subscribers/UCFuVENwuWsRdyo6BLEHynzw?style=social)](https://www.youtube.com/channel/UCFuVENwuWsRdyo6BLEHynzw)
-  - Linkedin: [Reyhaneh Ezatpanah](https://www.linkedin.com/in/reyhanehezatpanah/) <a href="https://www.linkedin.com/in/reyhanehezatpanah">
-  <img align="left" alt="Reyhaneh Ezatpanah Linkedin" src="https://img.shields.io/badge/linkedin-informational?style=flat&logo=linkedin&logoColor=white&color=informational" />
-</a>
+  - Linkedin: [Reyhaneh Ezatpanah](https://www.linkedin.com/in/reyhanehezatpanah/) 
  
 <br>
 
