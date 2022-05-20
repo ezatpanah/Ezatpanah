@@ -2,6 +2,8 @@
 
 <img align="center" alt="wallpaper" src="https://github.com/ezatpanah/ezatpanah/raw/main/android.gif"/>
 
+<br>
+<br>
 
 - 🔭 I’m currently working as an Android Developer at ERPLY Retail Platform
 - 🌱 I’m currently learning ...
