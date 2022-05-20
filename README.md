@@ -10,7 +10,7 @@
 - ⚡ Really Love new challenges
 - 📺 I've a [YouTube channel](https://youtube.com/channel/UCFuVENwuWsRdyo6BLEHynzw) sharing my knowledge and experiences in Android Development
 - 💬 Ask me about Android Stuff and Android development ,I may be able to answer
-- - 📫 How to reach me:
+- 📫 How to reach me:
   - Website: [Ezatpanah.com](https://ezatpanah.com)
   - Email: [Ezatpanah@gmail.com](mailto:Ezatpanah@gmail.com)
   - Linkedin: [Reyhaneh Ezatpanah](https://www.linkedin.com/in/reyhanehezatpanah/) 
