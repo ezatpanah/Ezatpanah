@@ -11,9 +11,12 @@
 - - 📫 How to reach me:
   - Website: [Ezatpanah.com](https://ezatpanah.com)
   - Email: [Ezatpanah@gmail.com](mailto:Ezatpanah@gmail.com)
-  - YouTube: [AndroidGeek_co ![YouTube channel subscribers](https://img.shields.io/youtube/channel/subscribers/UCFuVENwuWsRdyo6BLEHynzw?style=social)](https://www.youtube.com/channel/UCFuVENwuWsRdyo6BLEHynzw)
   - Linkedin: [Reyhaneh Ezatpanah](https://www.linkedin.com/in/reyhanehezatpanah/) 
+  - Medium : [@Ezatpanah](https://medium.com/@ezatpanah)
+  - YouTube: [AndroidGeek_co ![YouTube channel subscribers](https://img.shields.io/youtube/channel/subscribers/UCFuVENwuWsRdyo6BLEHynzw?style=social)](https://www.youtube.com/channel/UCFuVENwuWsRdyo6BLEHynzw)
+  
  
+<br>
 <br>
 
 
