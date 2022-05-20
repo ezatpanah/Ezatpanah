@@ -5,6 +5,11 @@
 <br>
 <br>
 
+I am an android developer ,I have worked as a software developer since 2005 and later focused extensively on mobile applications since 2015. I also had a chance to lead and train other developers along the way. I'm a computer geek who loves Mobile apps, learning new things every day, reading personal skill development books ,and video gaming. Besides publishing articles on Medium, I'm also a YouTuber who shares my experiences with developing Android apps on a YouTube channel called "AndroidGeek_co" for the whole Android community.
+
+<br>
+<br>
+
 - 🔭 I’m currently working as an Android Developer at ERPLY Retail Platform
 - 🌱 I’m currently learning ...
 - ⚡ Really Love new challenges
