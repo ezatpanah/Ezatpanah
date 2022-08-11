@@ -4,7 +4,7 @@
 <img align="center" alt="wallpaper" src="https://github.com/ezatpanah/ezatpanah/raw/main/android.gif"/>
 
 <br>
-I am an android developer ,I have worked as a software developer since 2005 and later focused extensively on mobile applications since 2015. Along the way, I also had the opportunity to lead and train other developers. A computer geek who enjoys mobile apps, learning new things every day, reading books about personal development, and video gaming .As well as publishing articles on Medium, I ran a YouTube channel called "AndroidGeek_co" on which I share my experiences developing Android apps.
+I am an android developer ,I have worked as a software developer since 2005 and later focused extensively on mobile applications since 2015. Along the way, I also had the opportunity to lead and train other developers. A computer geek who enjoys mobile apps, learning new things every day, reading books about personal development, and video gaming .As well as publishing articles on Medium, I ran a YouTube channel called "AndroidGeek" on which I share my experiences developing Android apps.
  
 <br>
 <br>
@@ -19,7 +19,7 @@ I am an android developer ,I have worked as a software developer since 2005 and 
   - Email: [Ezatpanah@gmail.com](mailto:Ezatpanah@gmail.com)
   - Linkedin: [Reyhaneh Ezatpanah](https://www.linkedin.com/in/reyhanehezatpanah/) 
   - Medium : [@Ezatpanah](https://medium.com/@ezatpanah)
-  - YouTube: [AndroidGeek_co ![YouTube channel subscribers](https://img.shields.io/youtube/channel/subscribers/UCFuVENwuWsRdyo6BLEHynzw?style=social)](https://www.youtube.com/channel/UCFuVENwuWsRdyo6BLEHynzw)
+  - YouTube: [AndroidGeek_co ![YouTube channel subscribers](https://img.shields.io/youtube/channel/subscribers/UCFuVENwuWsRdyo6BLEHynzw?style=social)](https://www.youtube.com/c/AndroidGeekco)
   
  
 <br>
