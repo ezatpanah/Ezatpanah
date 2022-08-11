@@ -12,14 +12,14 @@ I am an android developer ,I have worked as a software developer since 2005 and 
 - 🔭 I’m currently working as an Android Developer at ERPLY Retail Platform
 - 🌱 I’m currently learning ...
 - ⚡ Really Love new challenges
-- 📺 I've a [YouTube channel](https://youtube.com/channel/UCFuVENwuWsRdyo6BLEHynzw) sharing my knowledge and experiences in Android Development
+- 📺 I've a [YouTube channel](https://www.youtube.com/c/AndroidGeekco) sharing my knowledge and experiences in Android Development
 - 💬 Ask me about Android Stuff and Android development ,I may be able to answer
 - 📫 How to reach me:
   - Website: [Ezatpanah.com](https://ezatpanah.com)
   - Email: [Ezatpanah@gmail.com](mailto:Ezatpanah@gmail.com)
   - Linkedin: [Reyhaneh Ezatpanah](https://www.linkedin.com/in/reyhanehezatpanah/) 
   - Medium : [@Ezatpanah](https://medium.com/@ezatpanah)
-  - YouTube: [AndroidGeek_co ![YouTube channel subscribers](https://img.shields.io/youtube/channel/subscribers/UCFuVENwuWsRdyo6BLEHynzw?style=social)](https://www.youtube.com/c/AndroidGeekco)
+  - YouTube: [AndroidGeek ![YouTube channel subscribers](https://img.shields.io/youtube/channel/subscribers/UCFuVENwuWsRdyo6BLEHynzw?style=social)](https://www.youtube.com/c/AndroidGeekco)
   
  
 <br>
