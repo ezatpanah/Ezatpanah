@@ -19,7 +19,7 @@ I am an android developer ,I have worked as a software developer since 2005 and 
   - Email: [Ezatpanah@gmail.com](mailto:Ezatpanah@gmail.com)
   - Linkedin: [Reyhaneh Ezatpanah](https://www.linkedin.com/in/reyhanehezatpanah/) 
   - Medium : [@Ezatpanah](https://medium.com/@ezatpanah)
-  - YouTube: [AndroidGeek ![YouTube channel subscribers](https://img.shields.io/youtube/channel/subscribers/UCFuVENwuWsRdyo6BLEHynzw?style=social)](https://www.youtube.com/c/AndroidGeekCo)
+  - YouTube: [AndroidGeek ![YouTube channel subscribers](https://img.shields.io/youtube/channel/subscribers/UCFuVENwuWsRdyo6BLEHynzw?style=social)](https://www.youtube.com/@AndroidGeekCo)
   
  
 <br>
