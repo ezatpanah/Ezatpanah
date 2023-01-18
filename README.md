@@ -38,9 +38,9 @@ I am an android developer ,I have worked as a software developer since 2005 and 
 
 
 <div align="center" >
-      <img src="https://github-readme-stats.vercel.app/api?username=eezatpanah&show_icons=true&bg_color=25,1A2980,26D0CE&title_color=fff&text_color=fff&count_private=true">
+      <img src="https://github-readme-stats.vercel.app/api?username=ezatpanah&show_icons=true&bg_color=25,1A2980,26D0CE&title_color=fff&text_color=fff&count_private=true">
   <br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eeezatpanah&layout=compact&show_icons=true&bg_color=25,1A2980,26D0CE&title_color=fff&text_color=fff&count_private=true">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezatpanah&layout=compact&show_icons=true&bg_color=25,1A2980,26D0CE&title_color=fff&text_color=fff&count_private=true">
 
 
 </div>
