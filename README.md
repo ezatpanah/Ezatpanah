@@ -1,4 +1,4 @@
-# Hi👋 , I'm <a href="https://github.com/ezatpanah"> Reyhaneh </a>
+# Hi👋 , I'm <a href="https://github.com/ezatpanah"> Rey </a>
 <!-- # Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px">,<a href="https://github.com/ezatpanah"> I'm Reyhaneh </a>
  -->
 <img align="center" alt="wallpaper" src="https://github.com/ezatpanah/ezatpanah/raw/main/android.gif"/>
@@ -38,9 +38,9 @@ I am an android developer ,I have worked as a software developer since 2005 and 
 
 
 <div align="center" >
-      <img src="https://github-readme-stats.vercel.app/api?username=ezatpanah&show_icons=true&bg_color=25,1A2980,26D0CE&title_color=fff&text_color=fff&count_private=true">
+      <img src="https://github-readme-stats.vercel.app/api?username=eezatpanah&show_icons=true&bg_color=25,1A2980,26D0CE&title_color=fff&text_color=fff&count_private=true">
   <br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezatpanah&layout=compact&show_icons=true&bg_color=25,1A2980,26D0CE&title_color=fff&text_color=fff&count_private=true">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eeezatpanah&layout=compact&show_icons=true&bg_color=25,1A2980,26D0CE&title_color=fff&text_color=fff&count_private=true">
 
 
 </div>
