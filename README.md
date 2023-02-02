@@ -1,4 +1,4 @@
-# Hi👋 , I'm <a href="https://github.com/ezatpanah"> Rey </a>
+# Hi👋 , I'm <a href="https://github.com/ezatpanah"> Rey [ Reyhaneh ] </a>
 <!-- # Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px">,<a href="https://github.com/ezatpanah"> I'm Reyhaneh </a>
  -->
 <img align="center" alt="wallpaper" src="https://github.com/ezatpanah/ezatpanah/raw/main/android.gif"/>
