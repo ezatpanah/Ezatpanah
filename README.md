@@ -9,7 +9,7 @@ I am an android developer ,I have worked as a software developer since 2005 and 
 <br>
 <br>
 
-- 🔭 I’m currently working as an Android Developer at ERPLY Retail Platform
+- 🔭 I’m currently working as an Senior Android Developer at Scania Group
 - 🌱 I’m currently learning ...
 - ⚡ Really Love new challenges
 - 📺 I've a [YouTube channel](https://www.youtube.com/c/AndroidGeekco) sharing my knowledge and experiences in Android Development
