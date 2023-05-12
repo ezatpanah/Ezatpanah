@@ -10,7 +10,6 @@ I am an android developer ,I have worked as a software developer since 2005 and 
 <br>
 
 - 🔭 I’m currently working as a Senior Android Developer at Scania Group
-- 🌱 I’m currently learning ...
 - ⚡ Really Love new challenges
 - 📺 I've a [YouTube channel](https://www.youtube.com/c/AndroidGeekco) sharing my knowledge and experiences in Android Development
 - 💬 Ask me about Android Stuff and Android development ,I may be able to answer
