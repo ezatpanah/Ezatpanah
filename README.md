@@ -32,12 +32,12 @@ Let's connect and learn together! 📚💡
 <img src="https://cdn.mentorcruise.com/img/banner/sky-mentoring-badge.svg" width="240" alt="MentorCruise">
 </a>
 
-
+<br>
 <br>
 
 
 
-## 🔧 My Favorite Technologies
+## My Favorite Technologies
 ![](https://img.shields.io/badge/OS-windows-informational?style=flat&logo=windows&logoColor=white&color=informational)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=informational)
 ![](https://img.shields.io/badge/OS-Android-informational?style=flat&logo=android&logoColor=white&color=informational)
@@ -46,8 +46,10 @@ Let's connect and learn together! 📚💡
 ![](https://img.shields.io/badge/IDE-Android_Studio-informational?style=flat&logo=android&logoColor=white&color=informational)
 ![](https://img.shields.io/badge/IDE-IntelliJIDEA-informational?style=flat&logo=IntelliJ-IDEA&logoColor=white&color=informational)
 
+<br>
+<br>
 
-## 🔧 GitHub Stats
+## GitHub Stats
 <div align="center" >
       <img src="https://github-readme-stats.vercel.app/api?username=ezatpanah&show_icons=true&bg_color=25,1A2980,26D0CE&title_color=fff&text_color=fff&count_private=true">
   <br>
